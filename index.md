@@ -10,7 +10,8 @@ I'm a student, mathematician and computer scientist living in Salt Lake City, UT
 
 ### Contact
 [Email](mailto:abellokeefe@icloud.com) :e-mail: | [Github](https://github.com/abellokeefe) :space_invader:
-[LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie:| [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard) :notebook:	
+
+[LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie: | [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard) :notebook:	
 
 ### Skillset
 - Programming Languages: Java, Python, C, Bash, and Assembly x86.
