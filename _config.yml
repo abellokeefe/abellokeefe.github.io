@@ -1,2 +1,5 @@
 theme: jekyll-theme-primer
 title: A. Bell-O'Keefe's Data Science Portfolio
+
+plugins:
+  - jemoji
