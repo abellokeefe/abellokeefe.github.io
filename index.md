@@ -9,10 +9,10 @@ I am a student of Computer Science at Colorado State University's online campus,
 I'm a student, mathematician and computer scientist living in Salt Lake City, UT. 
 
 ### Contact
-[Email](mailto:abellokeefe@icloud.com) :e-mail: | [Github](https://github.com/abellokeefe) :space_invader: | [LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie: | [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard) :notebook: | [HackerRank](https://www.hackerrank.com/abellokeefe) 
+[Email](mailto:abellokeefe@icloud.com) :e-mail: | [Github](https://github.com/abellokeefe) :space_invader: | [LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie: | [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard) :notebook: | [HackerRank](https://www.hackerrank.com/abellokeefe) :trophy:
 
 ### Skillset
-- Programming Languages: Java :coffee: , Python :snake: , C :c: , Bash :mag_right: , and Assembly x86 :building_construction:	.
+- Programming Languages: Java :coffee: , Python :snake: , C :floppy_disk: , Bash :mag_right: , and Assembly x86 :building_construction:	.
 - Applied skills: Object-oriented programming, discrete mathematics, statistical analysis, project management, curriculum building, foreign language translation, international communication, small-business management and start-up, sales, technical writing and leadership.
 - Previous work experience: Director of Music at Daybreak Academy in South Jordan, UT; sole-proprietor of Kangaroo Rat Music in Cape Cod, Massachusetts; private piano teacher and early math/reading teacher since 2012. 
 - Other skills, interests and academic experience: Ancient Greek language, philosophy, history of science and mathematics; Romance languages and comparative literature; Entrepreneurship; Piano and percussion performance; Music production; Education and curriculum design. 
