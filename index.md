@@ -9,8 +9,8 @@ I am a student of Computer Science at Colorado State University's online campus,
 I'm a student, mathematician and computer scientist living in Salt Lake City, UT. 
 
 ### Contact
-- [Email](mailto:abellokeefe@icloud.com) | - [Github](https://github.com/abellokeefe)
-- [LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) | - [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard)
+[Email](mailto:abellokeefe@icloud.com) :e-mail: | [Github](https://github.com/abellokeefe) :space_invader:
+[LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie:| [Stack Exchange](https://stackexchange.com/users/17056072/abelllizard) :notebook:	
 
 ### Skillset
 - Programming Languages: Java, Python, C, Bash, and Assembly x86.
