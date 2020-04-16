@@ -3,3 +3,5 @@ title: A. Bell-O'Keefe's Data Science Portfolio
 
 plugins:
   - jemoji
+
+permalink: /blog/:year/:month/:day/:title
