@@ -1,4 +1,5 @@
 ### Bio:
+
 <img align="left" src="https://github.com/abellokeefe/abellokeefe.github.io/blob/master/profile.jpg">
 
 Currently, my interests are in applying machine learning methods to analyze fetal heart rates in real time, during and before labor. I am collaborating with nurses in my local area and computer scientists with expereince in machine learning to develop new ways to identify patterns in fetal ECG readings that may indicate potential life-threatening diseases like bradycardia. 
