@@ -6,7 +6,7 @@ My dream is to see this research impact women's health, enabeling their infants 
 
 I am a student of Computer Science at Colorado State University's online campus, a student of Mathematics at Southern New Hampshire University and a student of Data Science at Lambda School. 
 
-I'm a student, mathematician and computer scientist who lives in Salt Lake City, UT. 
+I'm a student, mathematician and computer scientist living in Salt Lake City, UT. 
 
 ### Contact
 - [Email](mailto:abellokeefe@icloud.com)
