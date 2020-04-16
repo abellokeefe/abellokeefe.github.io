@@ -18,3 +18,4 @@ I'm a student, mathematician and computer scientist living in Salt Lake City, UT
 - Previous work experience: Director of Music Curriculum and Program at Daybreak Academy in South Jordan, UT; sole-proprietor of Kangaroo Rat Music in Cape Cod, Massachusetts; private piano teacher and early math/reading teacher since 2012. 
 - Other skills, interests and academic experience: Ancient Greek language, philosophy, history of science and mathematics; Romance languages and comparative literature; Entrepreneurship; Piano and percussion performance; Music production; Education and curriculum design. 
 
+
