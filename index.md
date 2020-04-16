@@ -7,7 +7,7 @@ My dream is to see this research impact women's health, enabeling their pregnanc
 I am a student of Computer Science at Colorado State University's online campus, a student of Mathematics at Southern New Hampshire University and a student of Data Science at Lambda School. 
 
 ### Contact
-[Email](mailto:abellokeefe@icloud.com) :e-mail: | [LinkedIn](https://www.linkedin.com/in/anna-bell-okeefe/) :necktie: | [Github](https://github.com/abellokeefe) :space_invader: 
+[Email](mailto:abellokeefe@icloud.com) :e-mail: | [LinkedIn](https://www.linkedin.com/in/anna-bell-o-keefe/) :necktie: | [Github](https://github.com/abellokeefe) :space_invader: 
 
 ### Skillset
 - Programming Languages: Java :coffee: , Python :snake: , C :floppy_disk: , Bash :mag_right: , and Assembly x86 :building_construction:	.
